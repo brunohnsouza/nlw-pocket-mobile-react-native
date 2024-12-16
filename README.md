@@ -45,6 +45,8 @@ npx expo start
 
 Após iniciar o projeto, use o app `Expo Go` para escanear o QR Code presente no terminal ou pressione a tecla `w` para abrir seu projeto na web.
 
+> OBS.: Siga os passos de instalação do back-end desse aplicativo [aqui](https://github.com/brunohnsouza/nlw-pocket-mobile-node).
+
 ## Funcionalidades
 
 O projeto oferece as seguintes funcionalidades:
